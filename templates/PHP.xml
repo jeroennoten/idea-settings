@@ -1,0 +1,11 @@
+<templateSet group="PHP">
+  <template name="test" value="/** @test */&#10;public function it_$METHOD$()&#10;{&#10;    // Given&#10;        $GIVEN$&#10;    // When&#10;        $WHEN$&#10;    // Then&#10;        $THEN$&#10; }" description="Test case" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="GIVEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>
