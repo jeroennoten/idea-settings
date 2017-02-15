@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="BuildArtifact">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
