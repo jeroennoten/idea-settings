@@ -1,0 +1,6 @@
+<application>
+  <component name="FindSettings">
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
+  </component>
+</application>
