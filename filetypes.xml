@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="vue" type="HTML" />
+      <mapping pattern="phpinfo" type="PLAIN_TEXT" />
       <mapping pattern="jeroen" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern="jij-krijgt-die-lach-niet-van-mijn-gezicht" type="PLAIN_TEXT" />
