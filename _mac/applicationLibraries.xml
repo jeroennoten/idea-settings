@@ -66,10 +66,18 @@
     <library name="select2" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.0.13_dist_css_select2.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.0.13_dist_js_i18n_en.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.0.13_dist_js_i18n_nl.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.0.13_dist_js_select2.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_select2_4.0.3_js_select2.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.0.13_dist_css_select2.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.0.13_dist_js_i18n_en.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.0.13_dist_js_i18n_nl.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_select2@4.0.13_dist_js_select2.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_select2_4.0.3_js_select2.js" />
       </CLASSES>
       <SOURCES />
